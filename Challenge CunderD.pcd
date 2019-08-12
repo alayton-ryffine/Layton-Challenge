@@ -1,2 +1,2 @@
-This PCD should change c/ under d to C/
-  go(qw(b c))->𝗿𝗲𝗽𝗹𝗮𝗰𝗲𝗪𝗶𝘁𝗵𝗧𝗲𝘅𝘁(qq(BBBB))
+This PCD should change c under d to C
+  go(d c)->𝗿𝗲𝗽𝗹𝗮𝗰𝗲𝗪𝗶𝘁𝗵𝗧𝗲𝘅𝘁(C)
