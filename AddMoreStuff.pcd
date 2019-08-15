@@ -6,9 +6,13 @@ AddFirst attribute called this
 #  at e
 #  addFirst FIRST attr ThIs
 
+addFirst after e
+  at e
+  addFirst FIRST
+
 addLast after e
-#  at e
-#  addLast LAST
+  at e
+  addLast LAST
   
 addLastAsText after e
 #  at e
