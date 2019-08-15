@@ -15,7 +15,11 @@ addLastAsText after e
 #  addLastAsText FINAL_WORD
 
 AddNext e
+#  at e
+#  addNext NEXT
+#  at NEXT
+#  addFirstAsText _Following_
+
+addPRev
   at e
-  addNext NEXT
-  at NEXT
-  addFirstAsText _Following_
+  addPrev PREVIOUS
