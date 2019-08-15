@@ -17,3 +17,4 @@ addLastAsText after e
 AddNext e
   at e
   addNext NEXT
+  addNextAsText _Following_
