@@ -11,5 +11,5 @@ addLast after e
   addLast LAST
   
 addLastAsText after e
-  at e
+#  at e
   addLastAsText FINAL_WORD
