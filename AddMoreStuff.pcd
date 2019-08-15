@@ -18,4 +18,4 @@ AddNext e
   at e
   addNext NEXT
   at NEXT
-  addLastAsText _Following_
+  addFirstAsText _Following_
