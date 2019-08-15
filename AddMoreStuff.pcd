@@ -5,3 +5,11 @@ AddFirstAsText before e
 AddFirst attribute called this
   at e
   addFirst FIRST attr ThIs
+
+addLast after e
+  at e
+  addLast LAST
+  
+addLastAsText after e
+  at e
+  addLastAsText FINAL_WORD
