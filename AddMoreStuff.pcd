@@ -1,15 +1,19 @@
 AddFirstAsText before e
-  at e
-  addFirstAsText WORDS
+#  at e
+#  addFirstAsText WORDS
 
 AddFirst attribute called this
-  at e
-  addFirst FIRST attr ThIs
+#  at e
+#  addFirst FIRST attr ThIs
 
 addLast after e
-  at e
-  addLast LAST
+#  at e
+#  addLast LAST
   
 addLastAsText after e
 #  at e
-  addLastAsText FINAL_WORD
+#  addLastAsText FINAL_WORD
+
+AddNext e
+  at e
+  addNext NEXT
