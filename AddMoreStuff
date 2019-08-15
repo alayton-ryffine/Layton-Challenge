@@ -1,3 +1,3 @@
-AddFirstAsText before d
-  at d
-  addFirstAsText WORDS
+AddFirstAsText before e
+  at e
+  addFirst WORDS
