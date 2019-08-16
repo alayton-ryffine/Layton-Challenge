@@ -2,3 +2,7 @@ Add ADDED before d
   at d
   addFirst ADDED
   addFirst WITH attribute1 AttrValue
+
+addSingleChild at d
+  at d
+  addSingleChild WRAP
