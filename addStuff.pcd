@@ -1,8 +1,12 @@
 Add ADDED before d
-  at d
-  addFirst ADDED
-  addFirst WITH attribute1 AttrValue
+#  at d
+#  addFirst ADDED
+#  addFirst WITH attribute1 AttrValue
 
 addSingleChild at d
   at d
-  addSingleChild WRAP
+  addSingleChild SINGLE
+  
+addWrapWith
+  at d
+  addWrapWith WRAP
