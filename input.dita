@@ -3,6 +3,10 @@
 <concept id="Layton_Challenge">
   <title>Success</title>
   <conbody>
-    <a><b><c/></b></a>
+    <a>
+      <b>
+        <c/>
+      </b>
+    </a>
   </conbody>
 </concept>
