@@ -10,3 +10,25 @@ addSingleChild at d
 addWrapWith
   at d
   addWrapWith WRAP
+
+addFirst after e
+  at e
+  addFirst FIRST
+
+addLast after e
+  at e
+  addLast LAST
+  
+addLastAsText after e
+#  at e
+#  addLastAsText FINAL_WORD
+
+AddNext e
+  at e
+  addNext NEXT
+#  at NEXT
+#  addFirstAsText _Following_
+
+addPRev
+  at e
+  addPrev PREVIOUS
